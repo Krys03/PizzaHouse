@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/PizzaHouse/static/js/main.6cf9ebe6.chunk.js",
+    "main.js.map": "/PizzaHouse/static/js/main.6cf9ebe6.chunk.js.map",
+    "runtime-main.js": "/PizzaHouse/static/js/runtime-main.b61b5b71.js",
+    "runtime-main.js.map": "/PizzaHouse/static/js/runtime-main.b61b5b71.js.map",
+    "static/js/2.dc265409.chunk.js": "/PizzaHouse/static/js/2.dc265409.chunk.js",
+    "static/js/2.dc265409.chunk.js.map": "/PizzaHouse/static/js/2.dc265409.chunk.js.map",
+    "static/js/3.1216d1a9.chunk.js": "/PizzaHouse/static/js/3.1216d1a9.chunk.js",
+    "static/js/3.1216d1a9.chunk.js.map": "/PizzaHouse/static/js/3.1216d1a9.chunk.js.map",
+    "index.html": "/PizzaHouse/index.html",
+    "static/js/2.dc265409.chunk.js.LICENSE.txt": "/PizzaHouse/static/js/2.dc265409.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/PizzaHouse/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/PizzaHouse/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/PizzaHouse/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/PizzaHouse/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/PizzaHouse/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/PizzaHouse/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/PizzaHouse/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/PizzaHouse/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61b5b71.js",
+    "static/js/2.dc265409.chunk.js",
+    "static/js/main.6cf9ebe6.chunk.js"
+  ]
+}
